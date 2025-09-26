@@ -1,0 +1,7 @@
+{
+  "main": ["bramhesh.kumar@nobroker.in"],
+  "pre-prod": ["eesha.krishna@nobroker.in"],
+  "qa": ["rudrakshya.dash@nobroker.in"],
+  "stage": ["rohan.divakar@nobroker.in"],
+  "dev": ["amina.ashraf@nobroker.in"]
+}
